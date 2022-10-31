@@ -1,7 +1,7 @@
 # Desafio-2
 Pagina de Formulário, com request a uma Api da Amazon , onde e buscado nomes de países e cidades.
 
-#### Teccnologias usadas neste projeto
+#### Tecnologias usadas neste projeto
 
 ** React.js
 ** Css
