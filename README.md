@@ -8,4 +8,6 @@ Pagina de Formulário, com request a uma Api da Amazon , onde e buscado nomes de
 ** React Hooks
 ** React useState
 ** React useForm
+** React useEffect
+** Api Request
 
